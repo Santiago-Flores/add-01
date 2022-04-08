@@ -1,9 +1,9 @@
 # Mycropython Pin
 
 
-Alumno: Nombre y apellido
+Alumno: Santiago Flores y Tadeo Ibaceta
 
-Curso: Curso
+Curso: 5ª1ª AVC
 
 Materia: Adquisicion de Datos
 
